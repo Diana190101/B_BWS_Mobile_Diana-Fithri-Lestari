@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">TugasLayout</string>
+    <string name="message">message</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="send">send</string>
+    <string name="reminder_name">reminder</string>
+    <string name="done">Done</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="login">Login</string>
+    <string name="Login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="password_input">Password</string>
+    <string name="submit">Login</string>
+    <string name="text_button">text_button</string>
+    <string name="scroll_view">Scroll_View</string>
+    <string name="welcome_to_scroll_view">Welcome to Purple World</string>
+    <string name="button_one">BUTTON ONE</string>
+    <string name="button_two">BUTTON TWO</string>
+    <string name="button_three">BUTTON THREE</string>
+    <string name="button_four">BUTTON FOUR</string>
+    <string name="button_five">BUTTON FIVE</string>
+    <string name="button_six">BUTTON SIX</string>
+    <string name="button_seven">BUTTON SEVEN</string>
+    <string name="button_eight">BUTTON EIGHT</string>
+    <string name="button_nine">BUTTON NINE</string>
+    <string name="linear_layout">Linear layout</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="material_design">Material Design</string>
+    <string name="scroll_view_horizontal">Scroll View Horizontal</string>
+
+    <string-array name="spinner_date">
+        <item>Wed, June 27 2012</item>
+    </string-array>
+
+    <string-array name="spinner_jam">
+        <item>08:00 AM</item>
+
+    </string-array>
+
+</resources>
